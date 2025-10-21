@@ -219,18 +219,6 @@ The application includes comprehensive error handling:
 
 ---
 
-## 📝 Future Enhancements
-
-- [ ] Add more cipher algorithms (Vigenère, Playfair)
-- [ ] File input/output support
-- [ ] Save/load cipher configurations
-- [ ] Cipher strength analyzer
-- [ ] Frequency analysis tools
-- [ ] Dark mode toggle
-- [ ] Multi-language support
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -241,7 +229,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Kushal Mayankbhai Patel**
 
-- 🌐 Portfolio: [kushal-portfolio-ug93.onrender.com](https://kushal-portfolio-ug93.onrender.com/)
 - 💻 GitHub: [@pkushal05](https://github.com/pkushal05)
 - 🔗 LinkedIn: [@kushalpatel07](https://linkedin.com/in/kushalpatel07)
 - 📧 Email: pkushal1052@gmail.com
@@ -251,7 +238,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - Durham College - Computer Programming & Analysis Program
-- Course: COSC1200 - Introduction to Programming
 - Date: April 14, 2025
 
 ---
